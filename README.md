@@ -78,7 +78,7 @@ As the assigned consultant, my role was to design a comprehensive **cloud-based 
 - 📊 **BI Visualization**: Created Power BI dashboards for dynamic, real-time insights and sales forecasting
 - 📈 **Outcome**: Delivered a scalable, cloud-native data platform enabling actionable insights and faster decision-making across TGS business units
 
-> This project simulates a real-world consulting engagement — from stakeholder requirements, through technical design and implementation, to delivering business value
+> This project simulates a real-world consulting engagement — from stakeholder requirements, through technical design and implementation, to delivering business value 
 
 ---
 
