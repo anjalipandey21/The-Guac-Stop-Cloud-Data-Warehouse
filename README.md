@@ -1,5 +1,5 @@
 # The Guac Stop: Cloud Data Warehouse and Analytics Modernization
-
+ 
 ## 📋 Project Summary
 This project showcases the end-to-end design and implementation of a cloud-native data warehouse for **The Guac Stop (TGS)**. The goal was to modernize fragmented business operations across sales, inventory, promotions, and employee management by building a centralized Oracle Cloud-based data warehouse integrated with ETL pipelines and Power BI visualizations.
 
